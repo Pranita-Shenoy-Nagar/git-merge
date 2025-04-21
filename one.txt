@@ -1,4 +1,0 @@
-eat 
-sleep 
-gym
-repeat
