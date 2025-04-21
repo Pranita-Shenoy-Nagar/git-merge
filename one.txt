@@ -1,4 +1,4 @@
 eat 
 sleep 
-drink
+gym
 repeat
